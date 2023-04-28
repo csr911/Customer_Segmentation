@@ -1,12 +1,6 @@
 # Customer_Segmentation
 
-# Table of Contents:
-
-# Introduction
-#	Project Overview
-#	Problem Statement and Objective
-#	Model Development and Evaluation
-
+Customer Segmentation using K-Means Clustering and Parameter Tuning
 
 # Introduction:
 
